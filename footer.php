@@ -1,0 +1,1 @@
+<footer style="text-align:center;">© <?php echo date("Y") + 543; ?> Survey By Loga </footer>
